@@ -6,7 +6,7 @@ const Footer = () => {
     <p className="text-[20px] font-medium mb-[21px]">Test driving your favorite car is a click away</p>
     <p className="text-[17px] font-light">Choose a model to test drive at your convenience</p>
   </div>
-  <button className='w-[158px] mt-[19px] h-[40px] text-center bg-white drop-shadow-sm'>Book A Test Drive</button>
+  <button className='w-[158px] mt-[19px] h-[40px] text-center bg-white drop-shadow-2xl rounded-sm '>Book A Test Drive</button>
 </footer>;
 };
 
